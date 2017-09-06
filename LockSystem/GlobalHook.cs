@@ -127,7 +127,8 @@ namespace LockSystem
             if (nCode >= 0)
             {
                 int vkCode = Marshal.ReadInt32(lParam);
-                // Not Left shit key sine this is key storahe for software fastStone slider
+                // Not Left shit key since this key stroke is for software fastStone slider to auto triiger to avoid the 
+                // system to Lock automatically 
                 if (vkCode != 160)
                 {
                     //File.AppendAllText(@"C:\\temp\hook.log", "KeyBoard:" + vkCode.ToString());
