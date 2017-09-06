@@ -10,7 +10,7 @@ Link to Download Faststone Image Slider : http://www.faststone.org/FSViewerDetai
 # How to Use
 1. Start the Fast stone image slide show
 2. Run the LockSystem.exe file.
-3. It will start in 10 sec delay to monitor any keuboard or mouse stroks
+3. It will start in 10 sec delay to monitor any keyboard or mouse stroks
 
-Note: Faststone will send keystroke 160 ( left sift key ) to avoid system to lock automatically. Excep this key stroke, if any other occur, the system will lock automatically
+Note: Faststone will send keystroke 160 ( left sift key ) to avoid system to lock automatically. Except this key stroke, if any other occur, the system will lock automatically to prevent unauthorized users to access the system
 
